@@ -1,0 +1,87 @@
+{
+	"id": "enuk",
+	"navbarMenu": {
+		"labelHome": "MENU PRINCIPAL",
+		"labelServices": "My Domains",
+		"labelAboutMe": "WHOAMI",
+		"labelPortifolio": "PROJETS",
+		"labelExperience": "EXPERIENCES"
+	},
+	"landingPage": {
+		"apresentationText": "Hello World,",
+		"typeText": "Kshitij Raut",
+		"resumeText": "Fascinated by IT and its security issues, I am moving into the cybersecurity profession. Creative and perseverant, I like to take on challenges as a team to respond to current challenges in terms of IT security.",
+		"buttonText": "About me"
+	},
+	"servicesOffer": {
+		"title": "My Domains",
+		"cards": {
+			"forensique": {
+				"title": "forensiques",
+				"contentText": "Strong knowledge of basic principles of computer forensiques, including methods of data acquisition, data analysis, and evidence presentation."
+			},
+			"devsecops": {
+				"title": "DevSecOps",
+				"contentText": "Strong understanding of development, IT security and regulatory compliance. Proficient in CI/CD, network security, penetration testing."
+			},
+			"pentesting": {
+				"title": "Pentesting",
+				"contentText": "Penetration testing and common vulnerabilities. Reconnaissance, exploitation, post-exploitation and reporting. Identification and correction of vulnerabilities to ensure the security of systems and networks."
+			},
+			"developpement": {
+				"title": "Developement",
+				"contentText": "Expertise in Python, JavaScript, Bash, Docker and others. Advanced use of Github for version management and collaboration on personal and professional projects."
+			}
+		}
+	},
+	"aboutMePage": {
+		"title": "WHOAMI",
+		"paragraph_one": "Hello there! 👋 I'm a computer engineering graduate with a knack for navigating the digital realm. ",
+		"paragraph_two": "My journey has been fueled by a passion for cybersecurity, where I find my stride in the thrilling world of CTF games. Armed with a degree and a determination to unravel the complexities of the virtual landscape, I'm on a quest for continuous learning and cyber adventures.",
+		"paragraph_three": "I bring hands-on experience in digital forensiques, android security, red & blue team functionalities coupled with proficiency in Linux, Python & SQL. My passion lies in automating and scripting Linux environments, complemented by strong networking, programming, analysis, and problem-solving skills. Eager to translate my expertise into real-world scenarios, I am actively seeking entry-level positions in the cybersecurity industry. My goal is to learn from seasoned professionals, contribute to organizational security, and cultivate practical experience in the field.",
+		"github_card": {
+			"followers": "followers",
+			"following": "following",
+			"repos": "repos"
+		},
+		"alt_dev_img": "Kshitij Raut"
+	},
+	"portifolioPage": {
+		"title": "PROJETS",
+		"labelFilter": "ALL",
+		"createdLabel": "Created the"
+	},
+	"experiencePage": {
+		"title": "EXPERIENCES",
+		"timeline": {
+			"labelPosition": "Position",
+			"labelTitle": "Titled",
+			"labelCompany": "Entreprise",
+			"labelCategory": "Category",
+			"labelInstitution": "Institution",
+			"labelProfessionalCourse": "Professional courses",
+			"labelBachelorDegree": "Bachelor",
+			"labelExtensionCourse": "Extension course"
+		}
+	},
+	"footer": {
+		"labelNavigation": {
+			"title": "Navigation",
+			"labelHome": "Menu principal",
+			"labelServices": "My domains",
+			"labelAboutMe": "Whoami",
+			"labelPortifolio": "Projets",
+			"labelExperience": "Experience"
+		},
+		"labelHost": {
+			"title": "HEBERGEMENT"
+		},
+		"labelSourceCode": {
+			"title": "CODE SOURCE"
+		},
+		"labelTechs": {
+			"title": "TECHNOLOGIES"
+		},
+		"labelBuildVersion": "Version"
+	}
+}
